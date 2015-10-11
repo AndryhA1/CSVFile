@@ -102,5 +102,4 @@ class CSVFile {
         }
         System.out.printf("\n\tОбщее количество строк:" + numbersOfLines);
     }
-
 }
